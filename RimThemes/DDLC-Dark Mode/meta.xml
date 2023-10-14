@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RimThemes>
+  <customFontTinyDefault>SpaceRangercond</customFontTinyDefault>
+  <customFontSmallDefault>SpaceRangercond</customFontSmallDefault>
+  <customFontMediumDefault>SpaceRangercond</customFontMediumDefault>
+  
+  <customFontSizeTinyDefault>12</customFontSizeTinyDefault>
+  <customFontSizeSmallDefault>14</customFontSizeSmallDefault>
+  <customFontSizeMediumDefault>18</customFontSizeMediumDefault>
+  
+  <disableTransparentText>0</disableTransparentText>
+  <windowsShadow>true</windowsShadow>
+  <loaderFPS>20</loaderFPS>
+  <expansionsIcons>true</expansionsIcons>	
+  <menuSpecialMode>0</menuSpecialMode>
+  <tapestryScaleMode>StretchToFill</tapestryScaleMode>
+
+
+  <description>Ĵ̷̀͒͗̏͊̃̕̚u̴͑̐̌̓̓͑͂̈́̔̓̋̕s҉̿̾͐͑̌̀̒͐̽́̂͆̓̍́͝t̷̔̾̈̄͌̈̅̍͆̉́͠ M̷̛̓͊́̉́̃̋̈́̎͐o̵͂̾̂̌̿̿̍̂͆͋͐̆͑́͡n҉̛͂̇̃͌́̈͋̀̌̚í̴̈̽͗̀̒͗̂͡k̸̇́̔̒̂̒̒̿͂́̃͐͠â̸̈́͒͛̍̋̍̔̐̔̒̑̏̚̚͝</description> 
+  <particleMode>mono</particleMode> 
+  <windowAnim>clip</windowAnim>
+  <category>games</category>
+  <dialogStacking>true</dialogStacking>
+  <disableMainRimthemesLogo>true</disableMainRimthemesLogo>	
+  <disableMainThemeSelector>false</disableMainThemeSelector> 
+  <menuAlignment>right</menuAlignment>
+  
+  <GenUI.MouseoverColor>(0,100,0)</GenUI.MouseoverColor> 
+  <GenUI.SubtleMouseoverColor>(0,100,0)</GenUI.SubtleMouseoverColor> 
+
+
+</RimThemes>
