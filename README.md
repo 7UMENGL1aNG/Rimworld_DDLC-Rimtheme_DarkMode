@@ -2,7 +2,7 @@
 
 ## 创意工坊：
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=3050717843	
+[ID:3050717843](https://steamcommunity.com/sharedfiles/filedetails/?id=3050717843)
 
 ## MOD概述：
 
@@ -28,4 +28,4 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3050717843
 加载背景我没有找到最终来源，等待有心人帮忙添加
 
 ## 外部链接：
-只能完成90%的浅色模式(等待编辑)，可自由修改和上传，但你需要标注素材来源有"Monika After Story"。你的MOD可以链接到本MOD。
+[只完成90%的浅色模式](https://github.com/7UMENGL1aNG/Rimworld_DDLC-Rimtheme_LightMode)，可自由修改和上传，但你需要标注素材来源有"Monika After Story"。你的MOD可以链接到本MOD。
