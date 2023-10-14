@@ -1,4 +1,4 @@
-# Rimworld-Rimtheme-DDLC
+# Rimworld_DDLC-Rimtheme_DarkMode
 
 ## 创意工坊：
 
