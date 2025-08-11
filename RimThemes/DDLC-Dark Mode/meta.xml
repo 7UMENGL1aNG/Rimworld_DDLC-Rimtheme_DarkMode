@@ -16,9 +16,11 @@
   <disableMainRimthemesLogo>true</disableMainRimthemesLogo>	
   <disableMainThemeSelector>false</disableMainThemeSelector> 
   <menuAlignment>right</menuAlignment>
+  <translationsInfos>false</translationsInfos>
   
   <GenUI.MouseoverColor>(0,100,0)</GenUI.MouseoverColor> 
   <GenUI.SubtleMouseoverColor>(0,100,0)</GenUI.SubtleMouseoverColor> 
+
 
 
 </RimThemes>
